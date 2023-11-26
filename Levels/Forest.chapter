@@ -171,7 +171,7 @@ normlevel
 normlevel
 {
 	file = "rev1-20";
-	name = "Pit Stop";
+	name = "Eggs 'N Bacon";
 	par = 35.0;
 	id = 19;
 }
