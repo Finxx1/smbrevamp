@@ -114,7 +114,7 @@ normlevel
 normlevel
 {
 	file = "rev1-13";
-	name = "114 Resort";
+	name = "144 Resort";
 	par = 15;
 	id = 12;
 }
